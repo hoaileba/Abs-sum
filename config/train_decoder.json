@@ -1,0 +1,8 @@
+{
+    "path_data" : "/home/os_callbot/workspace/hoailb/Text_Sumarization/pegasus/DoAn/data/raw_5k/",
+    "path_weight":"/home/os_callbot/workspace/hoailb/Text_Sumarization/pegasus/DoAn/exps/T5_decoder_21062022.pt",
+    "path_tensorlog":"runs/train_decoder_new_21062022",
+    "decoder_train" : true,
+    "encoder_train" : false
+    
+}

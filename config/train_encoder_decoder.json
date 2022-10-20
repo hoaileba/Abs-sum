@@ -1,0 +1,9 @@
+{
+    "path_data_train" : "/home/os_callbot/workspace/hoailb/Text_Sumarization/pegasus/DoAn/data/new_data_1/",
+    "path_data_val" : "/home/os_callbot/workspace/hoailb/Text_Sumarization/pegasus/DoAn/data/new_data_1/",
+    "path_weight":"/home/os_callbot/workspace/hoailb/Text_Sumarization/pegasus/DoAn/exps/T5_decoder_encoder_27062022.pt",
+    "path_tensorlog":"runs/train_decoder_encode_new_27062022",
+    "decoder_train" : true,
+    "encoder_train" : true
+    
+}
